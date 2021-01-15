@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">V</string>
+    <string name="答题">答题</string>
+    <string name="question_desciption">Question Desciption</string>
+    <string name="answer_a">Answer A</string>
+    <string name="answer_b">Answer B</string>
+    <string name="answer_c">Answer C</string>
+    <string name="answer_d">Answer D</string>
+    <string name="question_expaination">Question Expaination</string>
+
+</resources>
